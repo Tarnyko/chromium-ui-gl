@@ -1,0 +1,4 @@
+[submodule "third_party/mesa/src"]
+	path = third_party/mesa/src
+	url = https://chromium.googlesource.com/chromium/deps/mesa.git
+        branch = ef811c6bd4de74e13e7035ca882cc77f85793fef
